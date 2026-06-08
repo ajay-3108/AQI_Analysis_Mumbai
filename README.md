@@ -155,4 +155,4 @@ Facebook Prophet, Statsmodels, TensorFlow for modeling.
 
 ## Contact
 
-For feedback, contact: anshshah7643@gmail.com
+For feedback, contact: ajay.gaud431@gmail.com
